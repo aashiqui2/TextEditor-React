@@ -37,7 +37,10 @@
   }
 }
 
-.blank
+.skyblue
 {
-  color:red;
+  color:cornflowerblue;
+}
+body{
+  height: 200vh;
 }
